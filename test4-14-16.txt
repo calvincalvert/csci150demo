@@ -1,1 +1,3 @@
 THIS IS THE NEW FILE CREATED IN CLASS.
+
+this has been added in class.
